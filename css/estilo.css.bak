@@ -2,6 +2,4 @@
 /*CSS DOCUMENT */
 body{
  background-color:#7CC6FC;
- font-weight: bold;
- color:#B6EAF6
 }
